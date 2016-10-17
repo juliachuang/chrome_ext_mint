@@ -1,0 +1,1 @@
+var allLinks = jQuery("a"); for(var i = 0; i < allLinks.length; i++) { allLinks[i].href = allLinks[i].href.replace("category=:", "category:")};
